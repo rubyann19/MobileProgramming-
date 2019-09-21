@@ -27,6 +27,7 @@ public class Main3Activity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+                
     }
 
     @Override
